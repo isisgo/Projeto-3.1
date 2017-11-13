@@ -1,5 +1,7 @@
 ## Projeto de Programação
 
-Isis Gomes de Oliveira
+*Projeto da terceia Unidade de Programação Avançada*
 
-Kallil de Araújo Bezerra
+**Contributors: **
+- Isis Gomes de Oliveira
+- Kallil De Araújo Bezerra
