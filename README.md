@@ -2,6 +2,6 @@
 
 *Projeto da terceia Unidade de Programação Avançada*
 
-**Contributors: **
+**Contributors:**
 - Isis Gomes de Oliveira
 - Kallil De Araújo Bezerra
